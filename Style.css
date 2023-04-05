@@ -48,5 +48,8 @@ a{
 a:hover{
     text-decoration: underline;
 }
+p span{
+    color: rgb(104, 19, 19);
+}
 
 

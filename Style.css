@@ -35,4 +35,9 @@ p{
     font-size: 25px;
     color: red;
 }
+.double.class-name{
+    color: green;
+    font-size: 18px;
+    font-style: italic;
+}
 

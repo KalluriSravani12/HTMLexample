@@ -35,9 +35,18 @@ p{
     font-size: 25px;
     color: red;
 }
+
 .double.class-name{
-    color: green;
+    color: rgb(209, 212, 50);
     font-size: 18px;
     font-style: italic;
 }
+a{
+    color: #152655f6;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
 

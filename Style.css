@@ -1,4 +1,38 @@
 body{
+    /*We take all elements with CSS*/
    font-family: Arial, Helvetica, sans-serif; 
    font-size: 16px;
+   font-style: italic;
+   font-weight: 100;
+   line-height: 1.5;
+   margin-left: 20px;
+   padding: 0;
 }
+
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+p{
+   
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.Lorem{
+    font-size: 20px;
+    font-style: normal;
+    color: blue;
+}
+#Lorem{
+    font-style: italic;
+    font-size: 25px;
+    color: red;
+}
+
